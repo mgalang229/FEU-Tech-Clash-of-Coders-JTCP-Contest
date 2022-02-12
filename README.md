@@ -14,4 +14,15 @@ Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-compet
 Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/clashjtcp-happy-passcodes
 ## Problem 4 - Easy (Subarray Division - Fully Solve: 10 Points out of 10 Points)
 Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/the-birthday-bar
-## Problem 5 - 
+## Problem 5 - Medium (Bored Student's Game - Did Not Solve)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/clashjtcp-bored-students-game
+## Problem 6 - Medium (Next Numbers In Line - Did Not Solve)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/clashjtcp-next-numbers-in-line/problem
+## Problem 7 - Medium (Pluralization - Did Not Solve)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/clashjtcp-pluralization/problem
+## Problem 8 - Medium (The Balancer - Did Not Solve)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/clashjtcp-balancer/problem
+## Problem 9 - Hard (Matrix Layer Rotation - Did Not Attempt)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/matrix-rotation-algo
+## Problem 10 - Hard (String Transmission - Did Not Attempt)
+Link: https://www.hackerrank.com/contests/clash-of-coders-journey-towards-competitive-programming-advanced/challenges/string-transmission
