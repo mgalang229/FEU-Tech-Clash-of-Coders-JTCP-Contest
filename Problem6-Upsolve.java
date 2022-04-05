@@ -56,7 +56,7 @@ public class Main {
 				// also, make sure to mark the current element as visited to save
 				// its order because the same segment might appear again (in this case
 				// we need to choose the segment which appeared first in the sequence)
-				// the second condition checks if the another element has the same frequency
+				// the second condition checks if another element has the same frequency
 				// but the value is different so in this case we need to include it in the final answer
 				if((mp.get(a[i]) > mx) || (mp.get(a[i]) == mx && !visited[a[i]])) {
 					mx = mp.get(a[i]);
